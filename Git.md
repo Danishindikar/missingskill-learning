@@ -170,8 +170,7 @@ Trunk remains same and Tips changes.*
 		<td>takes head back to working area</td>
 	</tr>
 	<tr>
-		<td>git reset &lt;commit_id&gt; --hard</td>
-		<td>permanent remove from working area, changes made after this commit will be gon from working area</td>
+		
 	</tr>
 </tbody>
 </table>
