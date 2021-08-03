@@ -74,13 +74,9 @@ Trunk remains same and Tips changes.*
 </thead>
 <tbody>
 	<tr>
-		<td>git config --global user.email &lt;&quot;email_address&quot;&gt;</td>
-		<td>configure user email --global(to all repositary) if not given then setting will be for current repository</td>
-	</tr>
-	<tr>
-		<td>git config --global user.name &lt;&quot;user_name&quot;&gt;</td>
-		<td>configure user name.</td>
-	</tr>
+		
+	
+		
 	<tr>
 		<td>git init .</td>
 		<td>turn current directory into empty repository.</td>
@@ -160,16 +156,7 @@ Trunk remains same and Tips changes.*
 	<tr>
 		<td>git stash pop</td>
 		<td>to pop the save work that was not committed</td>
-	</tr>
-	<tr>
-		<td>git reset &lt;commit_id&gt; --soft</td>
-		<td>git reset is used to move current head to commit specified,this command takes head back to stagging area</td>
-	</tr>
-	<tr>
-		<td>git reset &lt;commit_id&gt; --mix</td>
-		<td>takes head back to working area</td>
-	</tr>
-	<tr>
+	
 		
 	</tr>
 </tbody>
