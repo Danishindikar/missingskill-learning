@@ -85,22 +85,13 @@ There were some Limitations in **IPv4** so **IPv6** was introduced
 ### Software Languages
 
 * Javascript
-
 * Python
-
 * Java
-
-
 * C
-
 * C++
-
 * C#
-
 * PHP
-
 * Ruby
-
 * Dart
 
 * Go
@@ -173,7 +164,7 @@ There are 2 types of Databases.
 * Google Sheet
 * Google Doc
 * Trello
-* Asara
+* Asana
 
 ### Git Dev Workflow
 
