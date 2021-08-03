@@ -62,21 +62,14 @@ Trunk remains same and Tips changes.*
 
 
 
-
-
-
 <table>
 <thead>
 	<tr>
 		<th>command</th>
-		<th>Description</th>
+		<th>Used For</th>
 	</tr>
 </thead>
 <tbody>
-	<tr>
-		
-	
-		
 	<tr>
 		<td>git init .</td>
 		<td>turn current directory into empty repository.</td>
@@ -111,7 +104,7 @@ Trunk remains same and Tips changes.*
 	</tr>
 	<tr>
 		<td>git remote add &lt;remote_name&gt; &lt;remote_repo_URL&gt;</td>
-		<td>add remote repositories.</td>
+		<td>add remote repository.</td>
 	</tr>
 	<tr>
 		<td>git clone &lt;remote_repo_URL&gt;</td>
@@ -147,20 +140,19 @@ Trunk remains same and Tips changes.*
 	</tr>
 	<tr>
 		<td>git show [commit_SHA]</td>
-		<td>metadata and content changes of specified commit.</td>
-	</tr>
-	<tr>
-		<td>git stash</td>
-		<td>to save work without commit</td>
-	</tr>
-	<tr>
-		<td>git stash pop</td>
-		<td>to pop the save work that was not committed</td>
-	
-		
+		<td>data and content changes of specified commit.</td>
 	</tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
+
+
 
 
 
